@@ -1,0 +1,53 @@
+kk@Krystals-MBP ~ % traceroute yuehuangart.com
+traceroute: Warning: yuehuangart.com has multiple addresses; using 35.169.40.107
+
+traceroute to yuehuangart.com (35.169.40.107), 64 hops max, 52 byte packets
+Ashburn, Virginia, United States of America, 20146
+Veteran Pest & Wildlife Services
+
+ 1  sac2v1k (192.168.1.1)  4.181 ms  1.987 ms  3.965 ms
+Not found
+
+ 2  cpe-68-173-72-1.nyc.res.rr.com (68.173.72.1)  19.372 ms  14.205 ms  14.290 ms
+New York City, New York, United States of America, 10116
+LAZ Parking Lot
+
+
+ 3  lag-61.nydbny7002h.netops.charter.com (68.173.202.126)  11.280 ms  17.739 ms  12.920 ms
+Newark, New Jersey, United States of America, 07101
+United States Postal Service
+
+ 4  lag-111.nyquny9101r.netops.charter.com (68.173.198.106)  17.200 ms  20.683 ms  14.735 ms
+New York City, New York, United States of America, 10116
+
+ 5  lag-25.nycmny837aw-bcr00.netops.charter.com (107.14.19.22)  16.776 ms
+Seattle, Washington, United States of America, 98101
+Seattle Art Museum
+
+
+    lag-15.nycmny837aw-bcr00.netops.charter.com (66.109.6.76)  14.232 ms
+New York City, New York, United States of America, 10116
+
+    lag-25.nycmny837aw-bcr00.netops.charter.com (107.14.19.22)  16.798 ms
+Seattle, Washington, United States of America, 98101
+
+ 6  lag-1.pr2.nyc20.netops.charter.com (66.109.9.5)  13.624 ms
+Atlanta, Georgia, United States of America, 30301
+Shay Lorjuste Fitness
+
+    lag-0.pr2.nyc20.netops.charter.com (66.109.5.119)  17.189 ms
+Houston, Texas, United States of America, 77001
+Wisenberg Evelyn
+
+
+    lag-1.pr2.nyc20.netops.charter.com (66.109.9.5)  14.099 ms
+Atlanta, Georgia, United States of America, 30301
+
+ 7  99.83.71.170 (99.83.71.170)  25.926 ms
+Ashburn, Virginia, United States of America, 20146
+
+    99.82.176.74 (99.82.176.74)  19.197 ms
+Ashburn, Virginia, United States of America, 20146
+
+    99.82.176.72 (99.82.176.72)  21.257 ms
+Ashburn, Virginia, United States of America, 20146
